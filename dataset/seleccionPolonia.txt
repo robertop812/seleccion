@@ -1,0 +1,25 @@
+Jugador	Puesto	Jugador	Puesto
+Bartlomiej Drągowski	Arquero	Jakub Piotrowski	Volante
+Radosław Majecki	Arquero	Mateusz Łęgowski	Volante
+Wojciech Szczęsny	Arquero	Karol Linetty	Volante
+Łukasz Skorupski	Arquero	Grzegorz Krychowiak	Volante
+Kamil Grabara	Arquero	Patryk Dziczek	Volante
+Jan Bednarek	Defensor	Przemysław Frankowski	Volante
+Bartosz Bereszyński	Defensor	Jacek Góralski	Volante
+Paweł Bochniewicz	Defensor	Kamil Grosicki	Volante
+Matty Cash	Defensor	Kamil Jóźwiak	Volante
+Patryk Kun	Defensor	Jakub Kamiński	Volante
+Jakub Kiwior	Defensor	Mateusz Klich	Volante
+Tomasz Kędziora	Defensor	Kacper Kozłowski	Volante
+Michał Karbownik	Defensor	Michał Skóraś	Volante
+Artur Jędrzejczyk	Defensor	Damian Szymański	Volante
+Paweł Dawidowicz	Defensor	Sebastian Szymański	Volante
+Kamil Glik	Defensor	Piotr Zieliński	Volante
+Robert Gumny	Defensor	Szymon Żurkowski	Volante
+Michał Helik	Defensor	Adam Buksa	Delantero
+Maik Nawrocki	Defensor	Dawid Kownacki	Delantero
+Tymoteusz Puchacz	Defensor	Robert Lewandowski	Delantero
+Nicola Zalewski	Defensor	Arkadiusz Milik	Delantero
+Mateusz Wieteska	Defensor	Krzysztof Piątek	Delantero
+Arkadiusz Reca	Defensor	Karol Świderski	Delantero
+Krystian Bielik	Volante
